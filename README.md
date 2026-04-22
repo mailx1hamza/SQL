@@ -76,12 +76,11 @@ Deliver **data-driven insights** that help the airline:
 - 🔁 **Churn Flag:** Derived from cancellation behavior  
 - 💵 **Salary Bands:** For behavioral segmentation  
 - 🟢 **Active Status:** Monthly activity indicator  
-- 📊 **Liability Tracking:** Running balance of unredeemed points  
+- 📊 **Liability Tracking:** Running balance of unredeemed points
+  
 
 ---
 
-
----
 
 ## 📊 Business Questions Answered
 
@@ -134,13 +133,10 @@ This project highlights strong **80/20 dynamics**:
 - Churn is **predictable and preventable**  
 
 
-
 ---
 
-
----
-
-
+## 👤 Author
+**Yakubu Hamza Ugbedeojo**  
 📧 mailx0hamza@gmail.com  
 
 ---
